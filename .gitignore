@@ -1,0 +1,13 @@
+*.exe
+*.nupkg
+RELEASES
+SHA256SUMS.txt
+*.sqlite*
+*.db
+.env*
+secrets/
+*.log
+*.db-*
+settings*.json
+auto-login*.json
+backups/
